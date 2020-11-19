@@ -11,3 +11,16 @@ C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Nome e Se
 C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Nome e Senha\obj\Debug\netcoreapp3.1\Nome e Senha.dll
 C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Nome e Senha\obj\Debug\netcoreapp3.1\Nome e Senha.pdb
 C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Nome e Senha\obj\Debug\netcoreapp3.1\Nome e Senha.genruntimeconfig.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\bin\Debug\netcoreapp3.1\Nome e Senha.exe
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\bin\Debug\netcoreapp3.1\Nome e Senha.deps.json
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\bin\Debug\netcoreapp3.1\Nome e Senha.runtimeconfig.json
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\bin\Debug\netcoreapp3.1\Nome e Senha.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\bin\Debug\netcoreapp3.1\Nome e Senha.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\bin\Debug\netcoreapp3.1\Nome e Senha.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\obj\Debug\netcoreapp3.1\Nome e Senha.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\obj\Debug\netcoreapp3.1\Nome e Senha.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\obj\Debug\netcoreapp3.1\Nome e Senha.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\obj\Debug\netcoreapp3.1\Nome e Senha.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\obj\Debug\netcoreapp3.1\Nome e Senha.dll
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\obj\Debug\netcoreapp3.1\Nome e Senha.pdb
+C:\Users\pedro\Desktop\Projetos\Exercicios - Estruturas de Repetição\Exercicio 2\obj\Debug\netcoreapp3.1\Nome e Senha.genruntimeconfig.cache

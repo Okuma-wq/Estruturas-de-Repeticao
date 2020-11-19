@@ -11,14 +11,16 @@ namespace Nome_e_Senha
             Console.Write("Digite o nome de usuário desejado: ");
             string nome = Console.ReadLine().ToLower();
 
-            string senha = "";
+            string senha;
 
             do{
                 Console.Write("Digite a senha desejada: ");
                 senha = Console.ReadLine().ToLower();
 
                 if (nome == senha){
+                    Console.WriteLine("------------------------------------------------------------------------------");
                     Console.WriteLine("O nome de usuário e senha não podem ser iguais, favor inserir uma senha válida");
+                    Console.WriteLine("------------------------------------------------------------------------------");
                 }
             } while(nome == senha);
 

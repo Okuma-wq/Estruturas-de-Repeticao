@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios - Estruturas de Repetição\\Nome e Senha\\Nome e Senha.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios - Estruturas de Repetição\\Exercicio 2\\Nome e Senha.csproj",
       "projectName": "Nome e Senha",
-      "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios - Estruturas de Repetição\\Nome e Senha\\Nome e Senha.csproj",
+      "projectPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios - Estruturas de Repetição\\Exercicio 2\\Nome e Senha.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios - Estruturas de Repetição\\Nome e Senha\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Desktop\\Projetos\\Exercicios - Estruturas de Repetição\\Exercicio 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
