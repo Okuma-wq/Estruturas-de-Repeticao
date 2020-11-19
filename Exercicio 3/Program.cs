@@ -12,7 +12,7 @@ namespace Exercicio_3
 
             string nome;
             int idade;
-            float salario;
+            double salario;
             string estadoCivil;
 
             do{
@@ -21,14 +21,14 @@ namespace Exercicio_3
                 nome = Console.ReadLine();
                 Console.ResetColor();
 
-                if(nome == ""){
+                if(nome == "" || nome == " "){
                     Console.WriteLine("-------------------------------------------------");
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("O campo nome não pode ser deixado em branco");
                     Console.ResetColor();
                     Console.WriteLine("-------------------------------------------------");
                 }
-            } while(nome == "");
+            } while(nome == "" || nome == " ");
 
             do{
                 Console.Write("Idade: ");
@@ -48,7 +48,7 @@ namespace Exercicio_3
             do{
                 Console.Write("Salário Atual: ");
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                salario = float.Parse(Console.ReadLine());
+                salario = double.Parse(Console.ReadLine());
                 Console.ResetColor();
 
                 if(salario < 0){
@@ -66,7 +66,7 @@ namespace Exercicio_3
                 estadoCivil = Console.ReadLine().ToLower();
                 Console.ResetColor();
 
-                if(!(estadoCivil == "s" || estadoCivil == "c" || estadoCivil == "v" || estadoCivil == "d")){
+                if(estadoCivil != "s" && estadoCivil != "c" && estadoCivil != "v" && estadoCivil != "d"){
                     Console.WriteLine("------------------------------------------------------");
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Estado civil digitado inválido, favor tentar novamente");
@@ -74,7 +74,7 @@ namespace Exercicio_3
                     Console.WriteLine("------------------------------------------------------");
                 }
 
-            }while(!(estadoCivil == "s" || estadoCivil == "c" || estadoCivil == "v" || estadoCivil == "d"));
+            }while(estadoCivil != "s" && estadoCivil != "c" && estadoCivil != "v" && estadoCivil != "d");
             
             Console.WriteLine("------------------------------------------------------");
             Console.ForegroundColor = ConsoleColor.Green;
